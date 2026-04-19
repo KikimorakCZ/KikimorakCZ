@@ -2,7 +2,7 @@
 
 ```
 ╔═══════════════════════════════════════╗
-║           KikimorakCZ / LukášCS              ║
+║           KikimorakCZ                       ║
 ╚═══════════════════════════════════════╝
 ```
 
@@ -17,8 +17,6 @@
 ## ▸ About
 
 ```yaml
-name:       Lukáš
-alias:      KikimorakCZ
 location:   Czech Republic 🇨🇿
 focus:      Security, Reverse Engineering, Malware Analysis, Dev
 status:     Always building something
